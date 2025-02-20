@@ -1,1 +1,13 @@
+python libraries:
+- pandas
+- numpy
+- os
+- seaborn
+- matplotlib
+
+data:
+input data is an excel spreadsheet with Caribou observations pulled from GPS devices.
+mandatory columns include:
+- ele    (Used to indicate elevation, in meters, of the Caribou observation) 
+- ROUND  (Used to group obeservations, see mark-resight studies)
 
